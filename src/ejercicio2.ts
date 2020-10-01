@@ -1,6 +1,15 @@
-let multiplicar = (a:number, b:number) => { 
-    let r = 4
-    let r2= a * b + r
-    return r2
+/*
+Lo primero que he hecho aquí es declarar la función
+y a esta le he dicho que los valores que le voy a pasar son números
+además dentro de esta vemos que he creados más variables y que esta función
+acaba devolviendo la cuenta final  con todas las variables numericas usadas 
+*/
+
+let cuentas = (a:number, b:number) => { 
+    let num = -4
+    let valortotal= a * b + num
+    return valortotal
  }
- console.log(multiplicar(3,4))
+
+ //Aquí es donde le doy valor a las dos variables "a" y "b"
+ console.log(cuentas(6,9))
