@@ -6,9 +6,9 @@ Ahora bien cuando todo esta listo siempre tendremos que usar los mismos comandos
 
 git init --> con esto damos constancia de que vamos a usar comando git 
 
-git commit -m "mensaje" --> con esto podremos comentar lo que queramos como subtítulo en el fichero y se verá reflejado en la págin de github 
+git commit -m "mensaje" --> con esto podremos comentar lo que queramos como subtítulo en el fichero y se verá reflejado en la página de github 
 
-git brach -M master  --> Es como dar permiso de administracón ya que será maestro
+git branch -M master  --> Es como dar permiso de administracón ya que será maestro
 
 git remorte add origin  enlace --> esto sirve para indicar donde vamos a almacenar el proyecto y por eso tendremos que usar nuestro código propio. 
 
